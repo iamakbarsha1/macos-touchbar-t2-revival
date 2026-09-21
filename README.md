@@ -1,6 +1,6 @@
-# The Touch Bar fix everyone posts is wrong
+# Debugging a dead MacBook Touch Bar down to the T2 USB bus
 
-## Debugging a dead Touch Bar on a T2 MacBook Pro down to the USB bus
+## The fix everyone posts cannot work. Here is what actually broke mine.
 
 My Touch Bar went dark. Not frozen, not stuck showing the wrong app's controls, just black. No escape key, no brightness, no volume. Keyboard and trackpad were fine.
 
